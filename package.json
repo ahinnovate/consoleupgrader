@@ -1,0 +1,22 @@
+{
+  "name": "@ahinnovate/consoleupgrader",
+  "version": "0.0.1",
+  "description": "console upgrder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahinnovate/consoleupgrader.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "ahinnovate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahinnovate/consoleupgrader/issues"
+  },
+  "homepage": "https://github.com/ahinnovate/consoleupgrader#readme"
+}
